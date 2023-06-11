@@ -17,12 +17,12 @@ Follow the instructions below to run the application using the Docker image:
 2. Open a terminal and execute the following command to pull the image:
 
    ```bash
-   docker pull fabiocordeiroaraujo/fullcycle
+   docker build -t <image-name> .   
 
 3. Next, run the following command to start the container:
 
-   ```bash
-   docker run fabiocordeiroaraujo/fullcycle
+   ```bash   
+   docker run <image-name>
 
 The message "Full Cycle Rocks!!" will be displayed in the terminal.
 
