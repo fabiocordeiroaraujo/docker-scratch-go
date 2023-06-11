@@ -1,4 +1,4 @@
-# Full Cycle Rocks! Challenge 
+# Full Cycle Rocks Challenge 
 
 ## Dockerfile for Golang application with <2MB image size
 
